@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'sector 034';
+  src: url('https://drive.google.com/uc?export=download&id=1WDaHnP4kZMn8sUMJAx1HoMALYPmEzK_I'); /* IE9 Compat Modes */
+  src: url('https://drive.google.com/uc?export=download&id=1WDaHnP4kZMn8sUMJAx1HoMALYPmEzK_I?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://drive.google.com/uc?export=download&id=1uilf04YK0HlCSbstYCgr2obxqqCJqSFG') format('woff'), /* Pretty Modern Browsers */
+       url('https://drive.google.com/uc?export=download&id=1WcXGYqo4Acc7dqxHg08rYnW7aPnhg2AE')  format('truetype'), /* Safari, Android, iOS */
+       url('https://drive.google.com/file/d/1EvyzVpzE9Bzs18w-Z3Ba5hZwEZ8IcSlD/view?usp=sharing') format('svg'); /* Legacy iOS */
+}

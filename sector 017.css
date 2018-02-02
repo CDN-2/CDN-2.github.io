@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'sector 017';
+  src: url('https://dl.dropboxusercontent.com/u/189273812/sector_017.eot'); /* IE9 Compat Modes */
+  src: url('https://dl.dropboxusercontent.com/u/189273812/sector_017.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://dl.dropboxusercontent.com/u/189273812/sector_017.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://dl.dropboxusercontent.com/u/189273812/sector_017.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://dl.dropboxusercontent.com/u/189273812/sector_017.svg#sector_017') format('svg'); /* Legacy iOS */
+}
